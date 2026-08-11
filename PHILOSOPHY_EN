@@ -1,0 +1,35 @@
+BTG Philosophy
+
+Better Than GNU
+
+GNU created freedom. BTG creates quality.
+
+We're not against GNU. We simply believe that freedom without engineering discipline is chaos. We respect the idea of open source, but we do not share dogmatism. Our code should be working, fast and predictable.
+
+BTG is not a political movement. It's an engineering standard.
+
+Three pillars of BTG:
+
+The first one. Lightness and speed.
+
+The program must be launched before the user blinks. Start-up time is no more than 2 seconds in normal mode. For heavyweight applications, up to 10 seconds are allowed, but with a mandatory progress indicator. Memory consumption is minimal for your task. Native languages are prioritised without heavy runtimes. No electrons and hundreds of megabytes for nothing.
+
+Second. Stability.
+
+The code has no right to break the system. Never. Releases are released only after passing a full set of autotests. Segfault, system crash, data loss are strictly prohibited. The program correctly handles all marginal cases. If it falls, then gracefully with a clear message, without touching other processes. The API maintains compatibility within major versions.
+
+Third. Modularity.
+
+The user is not the slave of your monolith. If the program has more than one function, it must be modular. The user has the right to physically delete any module without losing the basic functionality. Each module has a clear interface and independent documentation. The assembly supports module shutdown flags and minimal configuration.
+
+What BTG rejects.
+
+Inflated frameworks just in case. Unreasonable dependencies are more than three indirect. Reverse incompatibility without a good reason. Ignoring performance for the sake of code beauty. Justifying the brakes with phrases "and you need it".
+
+Attitude to GNU.
+
+BTG does not replace GNU. BTG offers an alternative. We do not copy GNU utilities. We write our own. If GNU does something well, we recognise it. If GNU does something bad, we do better. We do not require users to choose. We just give a tool that works faster, more stable and easier.
+
+The main principle.
+
+Freedom without quality is a choice between bad and very bad. BTG gives you the freedom to choose the best.
