@@ -2,7 +2,7 @@
 
 Better Than GNU
 
-https://github.com/wqreloxz/BTG-better-than-Gnu-/blob/main/logo.png
+![BTG Logo](logo.png)
 
 ---
 
