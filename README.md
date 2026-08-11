@@ -1,34 +1,34 @@
-BTG
+**BTG**
 
 Better Than GNU
 
-logo.png
+https://github.com/wqreloxz/BTG-better-than-Gnu-/blob/main/logo.png
 
 ---
 
-What is it
+**What is it**
 
 BTG is a collection of utilities to replace GNU. We do not copy existing programs, we write our own from scratch. Better, faster and more stable.
 
 ---
 
-Philosophy
+**Philosophy**
 
 BTG is an engineering standard, not a political movement.
 
 Every utility in BTG follows three principles:
 
-Lightweight and fast. Startup under 2 seconds, minimal memory usage, native languages without heavy runtimes.
+*Lightweight and fast*. Startup under 2 seconds, minimal memory usage, native languages without heavy runtimes.
 
-Stable. No system crashes, releases only after automated tests, graceful error handling.
+*Stable*. No system crashes, releases only after automated tests, graceful error handling.
 
-Modular. Users can disable and remove any part of the program without losing core functionality.
+*Modular*. Users can disable and remove any part of the program without losing core functionality.
 
 More about philosophy in PHILOSOPHY.md.
 
 ---
 
-License
+**License**
 
 BTG is distributed under its own BTG License.
 
@@ -38,7 +38,7 @@ More details in LICENSE.
 
 ---
 
-How to contribute
+**How to contribute**
 
 We accept pull requests. Code requirements:
 
@@ -51,7 +51,7 @@ More details in CONTRIBUTING.md.
 
 ---
 
-Difference from GNU
+**Difference from GNU**
 
 GNU: average speed, startup 5-10 seconds, partial modularity, good stability, political ideology.
 
@@ -59,17 +59,7 @@ BTG: high speed, startup under 2 seconds, full modularity, absolute stability, e
 
 ---
 
-Community
-
-GitHub: github.com/yourname/btg
-
-Documentation: docs.btg.org
-
----
-
-Authors
-
-Your name or team
+Author:wqreloxzz
 
 ---
 
